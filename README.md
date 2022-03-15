@@ -4,11 +4,11 @@
 Technologies: C#, Unity,
 
 ### Menu
-![](images/Capture.PNG)
+![](images/menu.PNG)
 ### Game Type
-![](images/Capture1.PNG)
+![](images/number.PNG)
 ### Game 1
-![](images/Capture2.PNG)
+![](images/game1.PNG)
 
 ### Game 2
-![](images/Capture3.PNG)
+![](images/game2.PNG)
